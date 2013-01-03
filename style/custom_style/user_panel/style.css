@@ -1,0 +1,23 @@
+
+	p.user_data{
+		font-family: calibri;
+		font-size: 18px;
+	}
+	
+	#right_panel{
+		position:relative;
+		top:-280px;
+		left:800px;
+	}
+	
+	#user_activity{
+		position:relative;
+		top:-210px;
+	}
+	
+	#admin_panel{
+		position: relative;
+		top:-270px;
+		left:800px;
+	
+	}

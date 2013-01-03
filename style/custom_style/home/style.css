@@ -1,0 +1,35 @@
+
+	/* deci aici o sa adaug modelul si alte diverse chestii legate de formatarea priview-ului articolelor */
+
+	 a.article_title {  
+		font-family: Calibri;
+		font-size: 18px;
+		text-decoration: none; 
+		
+	 }
+	 
+	 table.articles{
+		border-spacing: 10px; 
+	 }
+		
+	 h1{
+       	font-family: Calibri;
+		font-size: 45px;
+	 }
+	 
+	 /* aspectul comentariilor */
+	
+	#comment_body{
+   	 	position:relative;
+    	left:40px;
+    		
+      
+   	}	 
+	table.article_head{
+		position: absolute;
+		top: 10px;
+		left: 800px;
+		font-family: Calibri;
+		text-decoration: none;
+	}
+	 
