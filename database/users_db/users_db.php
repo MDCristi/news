@@ -18,4 +18,19 @@
       26 => 'cevea',
     ),
   ),
+  1 => 
+  array (
+    'username' => 'admin',
+    'password' => '1234',
+    'region' => 'Galati',
+    'avatar' => 'database\\users_db\\users_photos\\user_m.png',
+    'age' => 'unknown',
+    'sex' => 'unknown',
+    'city' => 'unknown',
+    'email' => 'unknown',
+    'is_admin' => false,
+    'articles' => 
+    array (
+    ),
+  ),
 );

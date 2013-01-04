@@ -17,3 +17,4 @@
 	$content_variabiles = render($page, $main_pages);
 	include 'template.php';
 	//test
+//test
