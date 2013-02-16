@@ -1,0 +1,1 @@
+<?php header('Content-Type: text/plain');?><h1>scris mare</h1>
