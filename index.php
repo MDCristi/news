@@ -1,5 +1,5 @@
 <?php
-	require_once 'functii'.DIRECTORY_SEPARATOR.'functii.php';
+	require_once 'functii'. DIRECTORY_SEPARATOR . 'functii.php';
 	
 	session_start();
 	

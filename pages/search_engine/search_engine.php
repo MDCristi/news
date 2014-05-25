@@ -5,7 +5,7 @@
 	 * Deocamdana motorul de cautare este inca in faza de test
 	 * uitate in functi/search_engine/search_engine_functions.php pentru a vedea mecanismul de functionare.
 	 * Din pacate la ora ctuala nu afiseaza rezultatele in functie de cele ce contine cele mai
-	 * apropiate cuvinte cu rezultatul cheie, pe viitor voi extine sistemul, dar deocamdata functioneaz optim.
+	 * apropiate cuvinte cu rezultatul cheie, pe viitor voi extinde sistemul, dar deocamdata functioneaz optim.
 	 */
 	 
 	if(!isset($page_content)){

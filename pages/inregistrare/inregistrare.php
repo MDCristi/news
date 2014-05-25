@@ -34,7 +34,7 @@
 			$decision += 1; 
 		}
 		else {
-			$mesaj .= 'alege-ti judetul in car elocuiesti<br/>';
+			$mesaj .= 'alege-ti judetul in care locuiesti<br/>';
 		}
 		
 		if(3 === $decision){
